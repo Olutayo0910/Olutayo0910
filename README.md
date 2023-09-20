@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! Welcome to my GitHub repository! 👋
 
-<!--
-**Olutayo0910/Olutayo0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name
+### Olutayo Victor, Ogunlade
+🚀 Exploring the intersections of fintech, logistics, and social impact. 
 
-Here are some ideas to get you started:
+🌟 Contributing to the tech community with a passion for open-source. Proudly involved in 2 exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Fluent in the languages of code: C, Python, JavaScript, CSS, and HTML. Crafting digital experiences that matter.
+
+🎙️ Mastering the art of sales and the magic of oratory. Connecting people through meaningful conversations.
+
+🛠️ Current Project: [TyreExpress](https://github.com/Olutayo0910/TyreExpress) - Reinventing the wheel, one tire at a time.
+
+📧 Reach out: olutayoogunlade0910@gmail.com
+🌐 Explore my digital world: [olutayoogunlade.com.ng](https://www.olutayoogunlade.com.ng/)
+🐦 Follow me on Twitter: [@cd_printf](https://twitter.com/cd_printf)
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
