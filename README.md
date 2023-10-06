@@ -1,3 +1,4 @@
+![Dark Simple and Modern Artificial Intelligence and Coding Youtube Thumbnail](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/82dd7c86-89d5-4a7f-b17f-f2e7093bbfff)
 ### Hi there! Welcome to my GitHub repository! 👋
 
 My name
