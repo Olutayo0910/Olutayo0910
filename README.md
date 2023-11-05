@@ -19,3 +19,5 @@ My name
 🐦 Follow me on Twitter: [@cd_printf](https://twitter.com/cd_printf)
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olutayo0910)](https://github.com/Olutayo0910/github-readme-stats)
