@@ -21,3 +21,4 @@ My name
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olutayo0910&layout=donut-vertical)](https://github.com/Olutayo0910/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olutayo0910)](https://github.com/Olutayo0910/github-readme-stats)
