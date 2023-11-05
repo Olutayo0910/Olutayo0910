@@ -3,11 +3,7 @@
 My name
 ### Olutayo Victor, Ogunlade
 
-🌟 Contributing to the tech community with a passion for open-source. Proudly involved in 2 exciting projects.
-
-💻 Fluent in the languages of code: C, Python, JavaScript, CSS, and HTML. Crafting digital experiences that matter.
-
-📧 Reach out: olutayoogunlade0910@gmail.com
+🌟 Contributing to the tech community with a passion for open-source.
 
 🌐 Explore my digital world: [olutayoogunlade.com.ng](https://www.olutayoogunlade.com.ng/)
 
