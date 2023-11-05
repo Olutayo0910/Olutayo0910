@@ -2,15 +2,10 @@
 
 My name
 ### Olutayo Victor, Ogunlade
-🚀 Exploring the intersections of fintech, logistics, and social impact. 
 
 🌟 Contributing to the tech community with a passion for open-source. Proudly involved in 2 exciting projects.
 
 💻 Fluent in the languages of code: C, Python, JavaScript, CSS, and HTML. Crafting digital experiences that matter.
-
-🎙️ Mastering the art of sales and the magic of oratory. Connecting people through meaningful conversations.
-
-🛠️ Current Project: [TyreExpress](https://github.com/Olutayo0910/TyreExpress) - Reinventing the wheel, one tire at a time.
 
 📧 Reach out: olutayoogunlade0910@gmail.com
 
