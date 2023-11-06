@@ -1,20 +1,20 @@
-:---:Hello, My name is
+Hello, My name is
 
-:---:![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
+![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
 
 I'm a software engineer from Nigeria
 
 About me
  
-*🌐 Know more about me [here](https://www.olutayoogunlade.com.ng/)
+markup : *🌐 Know more about me [here](https://www.olutayoogunlade.com.ng/)
 
-*💼 I am the founder of [Tyre Express](https://www.tyreexpress.ng/)
+💼 I am the founder of [Tyre Express](https://www.tyreexpress.ng/)
 
-*❤️ I love creating stuffs 
+❤️ I love creating stuffs 
 
-*🐦 Follow me on [Twitter](https://twitter.com/cd_printf)
+🐦 Follow me on [Twitter](https://twitter.com/cd_printf)
 
-*💼 I am also on [LinkedIn](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
+💼 I am also on [LinkedIn](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
 
 ![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
