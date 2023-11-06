@@ -2,7 +2,15 @@ Hello, My name is
 
 ![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
 
-🌐 Explore my digital world: [olutayoogunlade.com.ng](https://www.olutayoogunlade.com.ng/)
+I'm a software engineer from Nigeria
+
+About me
+ 
+🌐 [What I can do?](https://www.olutayoogunlade.com.ng/)
+
+💼 founder of [Tyre Express](https://www.tyreexpress.ng/)
+
+❤️ I love creating stuffs 
 
 🐦 Follow me on Twitter: [@cd_printf](https://twitter.com/cd_printf)
 
