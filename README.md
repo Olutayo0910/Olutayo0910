@@ -27,5 +27,5 @@ About me
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Olutayo0910&hide=stars,issues&show=prs_merged&show_icons=true" />
 </a>
 <a href="https://github.com/Olutayo0910/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olutayo0910&layout=compact&langs_count=8&card_width=270" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olutayo0910&layout=compact&langs_count=8&card_width=320" />
 </a>
