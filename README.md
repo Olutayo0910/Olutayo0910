@@ -1,5 +1,4 @@
-My name is
-# Olutayo Victor, Ogunlade
+Hello, My name is
 
 ![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
 
