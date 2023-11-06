@@ -8,7 +8,7 @@ My name is
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
 
-![image]({https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white})
+![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 <a href="https://github.com/Olutayo0910/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Olutayo0910&hide=stars,issues&show=prs_merged&show_icons=true" />
