@@ -8,8 +8,6 @@ My name is
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olutayo0910&layout=compact)](https://github.com/Olutayo0910/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olutayo0910&hide=stars,issues&show=prs_merged&show_icons=true)](https://github.com/Olutayo0910/github-readme-stats)
 <a href="https://github.com/Olutayo0910/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Olutayo0910&hide=stars,issues&show=prs_merged&show_icons=true" />
 </a>
