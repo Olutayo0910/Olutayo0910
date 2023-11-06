@@ -16,7 +16,7 @@ About me
 
 - 💼 I am also on [LinkedIn](https://www.linkedin.com/in/olutayo-victor-ogunlade-cpca-5644261a5)
 
-![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)(https://olutayoogunlade.hashnode.dev/)
+![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white(https://olutayoogunlade.hashnode.dev/))
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
