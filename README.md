@@ -1,6 +1,7 @@
 My name is
 # Olutayo Victor, Ogunlade
-![php](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/fad1655b-575d-4748-bad4-2f21c3db77d5)
+
+![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
 
 🌐 Explore my digital world: [olutayoogunlade.com.ng](https://www.olutayoogunlade.com.ng/)
 
