@@ -2,8 +2,6 @@ Hello, My name is
 
 ![personal logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/4b084c31-8f12-486b-931e-f401056f2578)
 
-![personal-logo](https://github.com/Olutayo0910/Olutayo0910/assets/121323757/05c2820c-2c3a-43bb-a593-d30505925b4c)
-
 I'm a software engineer from Nigeria
 
 About me
