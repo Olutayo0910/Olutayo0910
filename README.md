@@ -10,7 +10,7 @@ About me
 
 - 💼 I am the founder of [Tyre Express](https://www.tyreexpress.ng/)
 
-- ❤️ I love creating stuffs 
+- ❤️ I love creating stuff
 
 - 🐦 Follow me on [Twitter](https://twitter.com/cd_printf)
 
