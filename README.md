@@ -22,6 +22,10 @@ About me
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-3.0%2B-green)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-2.0%2B-blue)](https://palletsprojects.com/p/flask/)
+[![Jinja](https://img.shields.io/badge/Jinja-3.0%2B-orange)](https://jinja.palletsprojects.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-16%2B-brightgreen)](https://nodejs.org/)
 
 <a href="https://github.com/Olutayo0910/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Olutayo0910&hide=stars,issues&show=prs_merged&show_icons=true" />
