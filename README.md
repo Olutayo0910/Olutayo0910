@@ -8,7 +8,7 @@ About me
  
 - 🌐 Know more about me [here](https://www.olutayoogunlade.com.ng/)
 
-- 💼 I am the founder of [MentorMe](https://www.tyreexpress.ng/](https://olutayo0910.github.io/MentorMe/)
+- 💼 I am the founder of [MentorMe](https://olutayo0910.github.io/MentorMe/)
 
 - ❤️ I love creating stuff
 
